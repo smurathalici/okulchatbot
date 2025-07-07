@@ -1,7 +1,22 @@
 [
-  {
+   {
     "anahtar": "giriş çıkış",
     "soru": "okul giriş çıkış saatleri",
     "cevap": "Okulumuzun giriş saati 08:30, çıkış saati 15:30'dur."
   },
+  {
+    "anahtar": "adres",
+    "soru": "okul adresi nedir",
+    "cevap": "Okulumuzun adresi: Atatürk Mah. Eğitim Cad. No:10 İstanbul"
+  },
+  {
+    "anahtar": "telefon",
+    "soru": "okul telefon numarası",
+    "cevap": "Okulumuzun telefonu: 0212 123 45 67"
+  },
+  {
+    "anahtar": "müdür",
+    "soru": "okul müdürü kimdir",
+    "cevap": "Okul müdürümüz: Ahmet Yılmaz."
+  }
 ]
