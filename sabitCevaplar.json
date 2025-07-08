@@ -14,5 +14,9 @@
   {
     "soru": "okul müdürü kimdir",
     "cevap": "Okul müdürümüz: Ahmet Yılmaz."
-  }
+  },
+  {
+    "soru": "çıkış giriş saatleri",
+    "cevap": "Okulumuzun giriş saati 08:30, çıkış saati 15:30'dur."
+  },
 ]
