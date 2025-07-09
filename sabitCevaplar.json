@@ -22,5 +22,9 @@
   {
     "soru": "çıkış giriş",
     "cevap": "Okulumuzun giriş saati 08:30, çıkış saati 15:30'dur."
+  },
+  {
+    "soru": "telefon",
+    "cevap": "Okulumuzun telefonu: 0212 123 45 67"
   }
 ]
