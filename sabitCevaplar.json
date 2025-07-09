@@ -26,5 +26,10 @@
   {
     "soru": "telefon",
     "cevap": "Okulumuzun telefonu: 0212 123 45 67"
+  },
+  {
+    "soru": "nasıl ulaşırım",
+    "cevap": "Okulumuz M7 metrosunun Göztepe durağına çok yakındır. O durakta inerek 5 dakika içinde okulumuza ulaşabilirsiniz. Otobüs ile de TEM otoyolu Edirne İstikametindeki Basın Siteleri durağına çok yakındır."
   }
+
 ]
